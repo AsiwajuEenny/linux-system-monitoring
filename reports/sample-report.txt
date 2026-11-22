@@ -1,0 +1,11 @@
+========================================
+Linux System Monitoring Report
+========================================
+User:    StiveAdodo
+Hostname: StiveAdodo14
+Timestamp: 2026-11-22 19:50:29 GMT
+
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       454Mi       7.3Gi       4.1Mi       157Mi       7.3Gi
+Swap:          4.0Gi          0B       4.0Gi
